@@ -2,5 +2,5 @@
 .streamlit/secrets.toml
 
 # SQLite binary
-*.db
+data/
 
