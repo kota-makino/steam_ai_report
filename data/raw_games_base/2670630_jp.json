@@ -1,0 +1,255 @@
+{
+  "2670630": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Supermarket Simulator",
+      "steam_appid": 2670630,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\">&quot;Supermarket Simulator&quot; is a chill first-person simulation where every detail of running a supermarket comes alive.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Store_Management.png?t=1747747913\" />Design your store, optimizing for efficiency and aesthetics. Determine where products are displayed, manage your aisles, and ensure a smooth shopping experience for your customers. </p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/StoreManagementGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Supply_Goods.png?t=1747747913\" />Order stock using an in-game computer. Unpack goods, organize them in your storage room and place them on shelves, fridges, and freezers.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/SupplyGoodsGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Cashier.png?t=1747747913\" />Scan items, take cash and credit card payments, and ensure customers leave satisfied with their shopping and checkout experience.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/CashierGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Free_Market.png?t=1747747913\" />Navigate the complexities of a real-time market. Buy products when prices dip and determine the best-selling prices to balance customer satisfaction with profit margins.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/FreeMarketGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Expand.png?t=1747747913\" />As you accumulate profits, consider reinvesting. Expand your store's physical space, upgrade interiors, and continually adapt to the evolving demands of the retail world.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/GrowthGif.gif?t=1747747913\" /></p><p class=\"bb_paragraph\">In &quot;Supermarket Simulator&quot;, every decision matters. Will you rise to the occasion, transforming a modest establishment into a retail powerhouse, all while balancing customer satisfaction, and finances?</p>",
+      "about_the_game": "<p class=\"bb_paragraph\">&quot;Supermarket Simulator&quot; is a chill first-person simulation where every detail of running a supermarket comes alive.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Store_Management.png?t=1747747913\" />Design your store, optimizing for efficiency and aesthetics. Determine where products are displayed, manage your aisles, and ensure a smooth shopping experience for your customers. </p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/StoreManagementGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Supply_Goods.png?t=1747747913\" />Order stock using an in-game computer. Unpack goods, organize them in your storage room and place them on shelves, fridges, and freezers.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/SupplyGoodsGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Cashier.png?t=1747747913\" />Scan items, take cash and credit card payments, and ensure customers leave satisfied with their shopping and checkout experience.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/CashierGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Free_Market.png?t=1747747913\" />Navigate the complexities of a real-time market. Buy products when prices dip and determine the best-selling prices to balance customer satisfaction with profit margins.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/FreeMarketGif.gif?t=1747747913\" /><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/Expand.png?t=1747747913\" />As you accumulate profits, consider reinvesting. Expand your store's physical space, upgrade interiors, and continually adapt to the evolving demands of the retail world.</p><p class=\"bb_paragraph\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/extras/GrowthGif.gif?t=1747747913\" /></p><p class=\"bb_paragraph\">In &quot;Supermarket Simulator&quot;, every decision matters. Will you rise to the occasion, transforming a modest establishment into a retail powerhouse, all while balancing customer satisfaction, and finances?</p>",
+      "short_description": "Run your own supermarket. Stock shelves, set prices as you'd like, take payments, hire staff, expand, deal with shoplifters, and design your store. Purchase goods from online or local markets around the town. Online orders &amp; delivery are upcoming.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Portuguese - Brazil, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Turkish",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/header.jpg?t=1747747913",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/capsule_231x87.jpg?t=1747747913",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/capsule_184x69.jpg?t=1747747913",
+      "website": "https://supermarketsimulator.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (64-bit) 10<br></li><li><strong>Processor:</strong> i5 3550 / RYZEN 5 2500X<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 / AMD R9 270X<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (64-bit) 10<br></li><li><strong>Processor:</strong> i5 7600K / Ryzen 5 2600x<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 / AMD RX 480<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Nokta Games"
+      ],
+      "publishers": [
+        "Nokta Games"
+      ],
+      "price_overview": {
+        "currency": "JPY",
+        "initial": 230000,
+        "final": 230000,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "¥ 2,300"
+      },
+      "packages": [
+        956858
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Supermarket Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 956858,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Supermarket Simulator - ¥ 2,300",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 230000
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_ee99c15d72be4149b24620c945cef9b129fdade7.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_ee99c15d72be4149b24620c945cef9b129fdade7.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_da288dfd94c052144397fb8833392ebf56448d96.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_da288dfd94c052144397fb8833392ebf56448d96.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_e429f14874ca193c42d4266408745af466ef13e3.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_e429f14874ca193c42d4266408745af466ef13e3.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_fc219472c039df8e41dc13b97e6d678111659b70.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_fc219472c039df8e41dc13b97e6d678111659b70.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_5f1e8140d1df92bb47d857344b2b0864d985e5da.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_5f1e8140d1df92bb47d857344b2b0864d985e5da.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_2e4e73a9e638eb0a38de0478536fdc94372b1aa4.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_2e4e73a9e638eb0a38de0478536fdc94372b1aa4.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_7f7e4b32a3e754ab9cba572180f1997793696e8a.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_7f7e4b32a3e754ab9cba572180f1997793696e8a.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_fac423ead6940aa95aafc853c510f468a4837009.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_fac423ead6940aa95aafc853c510f468a4837009.1920x1080.jpg?t=1747747913"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_6728f2c642e025b45415b42d33d400b736bf0368.600x338.jpg?t=1747747913",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670630/ss_6728f2c642e025b45415b42d33d400b736bf0368.1920x1080.jpg?t=1747747913"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257003304,
+          "name": "Early Access Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257003304/movie.293x165.jpg?t=1708812096",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257003304/movie480_vp9.webm?t=1708812096",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257003304/movie_max_vp9.webm?t=1708812096"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257003304/movie480.mp4?t=1708812096",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257003304/movie_max.mp4?t=1708812096"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 64758
+      },
+      "achievements": {
+        "total": 15,
+        "highlighted": [
+          {
+            "name": "Hardworking Cashier",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/323735de0e5bad50839eb9ffc0f10aa06647cea7.jpg"
+          },
+          {
+            "name": "You need a cashier",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/c3142bac3be6462fdce3c074180f0353e83bc838.jpg"
+          },
+          {
+            "name": "The greatest!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/5ad56e8c8f682ea972b7ec1e033107440aa0d245.jpg"
+          },
+          {
+            "name": "Good for Eye",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/4b46137a8286c2275df192a48b0a5e3800ddeb8a.jpg"
+          },
+          {
+            "name": "These Floors Are Made For Walking",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/4c90b2ffe74ce1ab98541d1462cb694c9980dbbc.jpg"
+          },
+          {
+            "name": "That's a Big Change",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/a7c318ff2a2a0f0583f6d0dbe6bdf2044a363449.jpg"
+          },
+          {
+            "name": "Looking Good",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/c8b7688d00e6ca6dd3cbb2f0d2b71905dfb8c910.jpg"
+          },
+          {
+            "name": "And the best store in town is...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/910f2b86468f38f403d8d31b38cc2fea0ccdef39.jpg"
+          },
+          {
+            "name": "You Want It? We Got It!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/d4c507705c4e8142759fd1ef7ea51982f4dfc09a.jpg"
+          },
+          {
+            "name": "CEO of Organization",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2670630/b8ba9bd808ede7cfdd16878f46cbf5ff1404a9fb.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "20 Feb, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "supermarketsimulator@noktagames.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2670630?t=1747747913",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2670630?t=1747747913",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

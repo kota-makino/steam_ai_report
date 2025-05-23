@@ -1,0 +1,221 @@
+{
+  "1966720": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Lethal Company",
+      "steam_appid": 1966720,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/StorepageHeader1.gif?t=1742986399\" /><br>You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just <i>never</i> miss the quota. <br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/bridgeGif.gif?t=1742986399\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/StorepageHeader2.gif?t=1742986399\" /><br>These dangers prey upon the vulnerable and lonesome, and the protection of your crew may be your only hope. You can guide your crewmates from your ship, using the radar to call out traps and using the ship's terminal to access remotely locked doors--or you can all go in together. The Company store has many useful tools for the job, including lights, shovels, walkie talkies, stun grenades, or boomboxes. <br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/shipRadarGif2.gif?t=1742986399\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/StorepageHeader3.gif?t=1742986399\" /><br>Things get dangerous at night. Communicate with your crewmates to carry all valuables to the ship before things get too dangerous, and try not to leave anyone behind.",
+      "about_the_game": "<img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/StorepageHeader1.gif?t=1742986399\" /><br>You are a contracted worker for the Company. Your job is to collect scrap from abandoned, industrialized moons to meet the Company's profit quota. You can use the cash you earn to travel to new moons with higher risks and rewards--or you can buy fancy suits and decorations for your ship. Experience nature, scanning any creature you find to add them to your bestiary. Explore the wondrous outdoors and rummage through their derelict, steel and concrete underbellies. Just <i>never</i> miss the quota. <br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/bridgeGif.gif?t=1742986399\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/StorepageHeader2.gif?t=1742986399\" /><br>These dangers prey upon the vulnerable and lonesome, and the protection of your crew may be your only hope. You can guide your crewmates from your ship, using the radar to call out traps and using the ship's terminal to access remotely locked doors--or you can all go in together. The Company store has many useful tools for the job, including lights, shovels, walkie talkies, stun grenades, or boomboxes. <br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/shipRadarGif2.gif?t=1742986399\" /><br><br><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/extras/StorepageHeader3.gif?t=1742986399\" /><br>Things get dangerous at night. Communicate with your crewmates to carry all valuables to the ship before things get too dangerous, and try not to leave anyone behind.",
+      "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1742986399",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_231x87.jpg?t=1742986399",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/capsule_184x69.jpg?t=1742986399",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5<br></li><li><strong>Graphics:</strong> NVIDIA GForce GTX 1050<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2025 Zeekerss Inc. ",
+      "developers": [
+        "Zeekerss"
+      ],
+      "publishers": [
+        "Zeekerss"
+      ],
+      "price_overview": {
+        "currency": "KRW",
+        "initial": 1100000,
+        "final": 1100000,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "₩ 11,000"
+      },
+      "packages": [
+        710154
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Lethal Company",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 710154,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Lethal Company - ₩ 11,000",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1100000
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_78075e9a94675823024f12fce9d69b243cca94f8.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_78075e9a94675823024f12fce9d69b243cca94f8.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_51860be59845771c01a3a4d9ab1ebf773f16fef5.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_51860be59845771c01a3a4d9ab1ebf773f16fef5.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_08fa3ef83b6eb70313119096f82285fa411f02e5.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_08fa3ef83b6eb70313119096f82285fa411f02e5.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_568d97dfa9d8d3128157d84c9437030ccc1011b0.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_568d97dfa9d8d3128157d84c9437030ccc1011b0.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_e07f1d6ee90e3669118096dab1fe52c20ec6ce10.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_e07f1d6ee90e3669118096dab1fe52c20ec6ce10.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_0499d96a2b9ca0fc8966d77e6d5c95ae94c38492.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_0499d96a2b9ca0fc8966d77e6d5c95ae94c38492.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_d0bb214b1bf73ddc8315b96da6f32917043b13bc.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_d0bb214b1bf73ddc8315b96da6f32917043b13bc.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_74060ff4c1fa60d977d6481c5bbbaa80919e1f06.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_74060ff4c1fa60d977d6481c5bbbaa80919e1f06.1920x1080.jpg?t=1742986399"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_27eb66c9d0e327f90915cef23b1377e9b10bc27b.600x338.jpg?t=1742986399",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/ss_27eb66c9d0e327f90915cef23b1377e9b10bc27b.1920x1080.jpg?t=1742986399"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256961309,
+          "name": "Lethal Company - Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256961309/movie.293x165.jpg?t=1690909590",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/256961309/movie480_vp9.webm?t=1690909590",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/256961309/movie_max_vp9.webm?t=1690909590"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/256961309/movie480.mp4?t=1690909590",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/256961309/movie_max.mp4?t=1690909590"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 392096
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "23 Oct, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "zeekerssgames@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1966720?t=1742986399",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1966720?t=1742986399",
+      "content_descriptors": {
+        "ids": [
+          2,
+          5
+        ],
+        "notes": "The game has a realistic atmosphere. Player characters can die through various means, some involving dismemberment or decapitation. Player characters can use fictional medical drugs recklessly."
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "16",
+          "descriptors": "Violência Extrema\r\nMedo",
+          "use_age_gate": "true",
+          "required_age": "16"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drastische Gewalt"
+        }
+      }
+    }
+  }
+}

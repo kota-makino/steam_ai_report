@@ -1,0 +1,6 @@
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# SQLite binary
+*.db
+

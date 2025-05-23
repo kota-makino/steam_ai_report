@@ -1,0 +1,531 @@
+{
+  "2246340": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Monster Hunter Wilds",
+      "steam_appid": 2246340,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        3308900,
+        3289630,
+        3336860,
+        3116990,
+        3410840,
+        3117090,
+        3117100,
+        3117110,
+        3117120,
+        3117130,
+        3117140,
+        3117170,
+        3157720,
+        3157730,
+        3117180,
+        3117190,
+        3117200,
+        3117210,
+        3117220,
+        3117230,
+        3289620,
+        3336850,
+        3336890,
+        3117250,
+        3117260,
+        3117280,
+        3117290,
+        3117370,
+        3117430,
+        3117440,
+        3117450,
+        3117460,
+        3117500,
+        3117300,
+        3117310,
+        3117320,
+        3117330,
+        3117340,
+        3117350,
+        3117520,
+        3117530,
+        3117540,
+        3117550,
+        3117510,
+        3117560,
+        3360450,
+        3360460,
+        3360470,
+        3360480,
+        3289640,
+        3289650,
+        3289700,
+        3289710,
+        3289660,
+        3289670,
+        3289680,
+        3289690
+      ],
+      "detailed_description": "<h1>Deluxe Edition and Premium Deluxe Edition</h1><p><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/extras/Editions_PostLaunch_EN.png?t=1747271831\" /><br><br>Deluxe Edition and Premium Deluxe Edition<br><br>●Monster Hunter Wilds Deluxe Pack (Planned for release when the main game releases)<br>・Hunter Layered Armor Set: Feudal Soldier, Hunter Layered Armor: Fencer's Eyepatch, Oni Horns Wig<br>・Seikret Decoration: Soldier's Caparison, General's Caparison<br>・Felyne Layered Armor Set: Felyne Ashigaru<br>・Pendant: Avian Wind Chime<br>・Gesture: Battle Cry, Uchiko<br>・Hairstyle: Hero's Topknot, Refined Warrior<br>・Makeup/Face Paint: Hunter's Kumadori, Special Bloom<br>・Sticker Set: Avis Unit, Monsters of the Windward Plains<br>・Nameplate: Extra Frame — Russet Dawn *Deluxe Pack Bonus Item<br><br>●Premium Bonus (Planned for release when the main game releases)<br>・Hunter Layered Armor: Wyverian Ears<br>・Premium Bonus Hunter Profile Set<br>・BGM: Proof of a Hero (2025 Recording)<br><br>*The bonus content listed above may be available by alternative means at a later date.<br><br>●Monster Hunter Wilds Cosmetic DLC Pack 1 (Planned for release in Spring 2025)<br>This is a pack of various cosmetic items such as layered armor, pendants, and more, at a great value.<br><br>●Monster Hunter Wilds Cosmetic DLC Pack 2 (Planned for release in Summer 2025)<br>This is a pack of various cosmetic items such as layered armor, pendants, and more, at a great value.<br><br>*This content can also be obtained separately. Please be careful of duplicate transactions.<br>*Content details and release date may change without prior notice.<br>*You may need to update to the latest version of the game to use this content.</p><br><h1>About the Game</h1>The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next.<br><br>This is a story of monsters and humans and their struggles to live in harmony in a world of duality.<br>Fulfill your duty as a Hunter by tracking and defeating powerful monsters and forging strong new weapons and armor from the materials you harvest from your hunt as you uncover the connection between the people of the Forbidden Lands and the locales they inhabit.<br>The ultimate hunting experience awaits you in Monster Hunter Wilds.<br><br>Story<br>A few years past, a young boy named Nata was rescued at the border of the Forbidden Lands, an unexplored region the guild has yet to survey.<br>After hearing the boy’s tale of his lone escape from a mysterious monster that attacked his village, the Guild organized an expedition into the Forbidden Lands to investigate.<br><br>A Living World<br>Environments within the Forbidden Lands can drastically change as the weather shifts constantly and suddenly. During the harsh Fallow and perilous Inclemency periods, ravenous monsters will venture out to hunt in packs, yet during the Plenty periods, wildlife is rich and abundant.<br><br>Monsters<br>The monsters who inhabit these environments have been forced to adapt to the dynamic changes that occur, using their unique characteristics to survive and thrive.<br><br>Hunting<br>As the world around them changes, so must the hunters and their tactics. Not only will hunters have a multitude of weapons and armor to choose from, but the art of the hunt itself has evolved as hunters learn to anticipate monsters’ behavior and familiarize themselves with their environment.<br><br>Characters<br>From hunting partners to fellow expedition members, you’ll encounter plenty of those who will support you on your journey.",
+      "about_the_game": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next.<br />\r\n<br />\r\nThis is a story of monsters and humans and their struggles to live in harmony in a world of duality.<br />\r\nFulfill your duty as a Hunter by tracking and defeating powerful monsters and forging strong new weapons and armor from the materials you harvest from your hunt as you uncover the connection between the people of the Forbidden Lands and the locales they inhabit.<br />\r\nThe ultimate hunting experience awaits you in Monster Hunter Wilds.<br />\r\n<br />\r\nStory<br />\r\nA few years past, a young boy named Nata was rescued at the border of the Forbidden Lands, an unexplored region the guild has yet to survey.<br />\r\nAfter hearing the boy’s tale of his lone escape from a mysterious monster that attacked his village, the Guild organized an expedition into the Forbidden Lands to investigate.<br />\r\n<br />\r\nA Living World<br />\r\nEnvironments within the Forbidden Lands can drastically change as the weather shifts constantly and suddenly. During the harsh Fallow and perilous Inclemency periods, ravenous monsters will venture out to hunt in packs, yet during the Plenty periods, wildlife is rich and abundant.<br />\r\n<br />\r\nMonsters<br />\r\nThe monsters who inhabit these environments have been forced to adapt to the dynamic changes that occur, using their unique characteristics to survive and thrive.<br />\r\n<br />\r\nHunting<br />\r\nAs the world around them changes, so must the hunters and their tactics. Not only will hunters have a multitude of weapons and armor to choose from, but the art of the hunt itself has evolved as hunters learn to anticipate monsters’ behavior and familiarize themselves with their environment.<br />\r\n<br />\r\nCharacters<br />\r\nFrom hunting partners to fellow expedition members, you’ll encounter plenty of those who will support you on your journey.",
+      "short_description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Spanish - Latin America, Portuguese - Brazil<strong>*</strong>, Polish, Russian<strong>*</strong>, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1747271831",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/970508d58e4f11f6f9ff3e2921b7eec558a50af8/capsule_231x87.jpg?t=1747271831",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/970508d58e4f11f6f9ff3e2921b7eec558a50af8/capsule_184x69.jpg?t=1747271831",
+      "website": "https://www.monsterhunter.com/wilds/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows®10 (64-bit Required)/Windows®11 (64-bit Required)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® GTX 1660(VRAM 6GB) or AMD Radeon™ RX 5500 XT(VRAM 8GB)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 75 GB available space<br></li><li><strong>Additional Notes:</strong> SSD required. This game is expected to run at 1080p (upscaled from 720 native resolution) / 30 fps under the &quot;Lowest&quot; graphics setting. DirectStorage supported.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows®10 (64-bit Required)/Windows®11 (64-bit Required)<br></li><li><strong>Processor:</strong> Intel® Core™ i5-10400 or Intel® Core™ i3-12100 or AMD Ryzen™ 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA® GeForce® RTX 2060 Super(VRAM 8GB) or　AMD Radeon™  RX 6600(VRAM 8GB)<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 75 GB available space<br></li><li><strong>Additional Notes:</strong> SSD required. This game is expected to run at 1080p / 60 fps (with Frame Generation enabled) under the &quot;Medium&quot; graphics setting. DirectStorage supported.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "©CAPCOM<br />\r\nMONSTER HUNTER WILDS is a trademark and/or registered trademark of CAPCOM CO., LTD. and/or its subsidiaries in the U.S. and/or other countries.",
+      "drm_notice": "Denuvo Anti-tamper<br>5 different PC within a day machine activation limit",
+      "developers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "publishers": [
+        "CAPCOM Co., Ltd."
+      ],
+      "demos": [
+        {
+          "appid": 3424520,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "EUR",
+        "initial": 6999,
+        "final": 6999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "69,99€"
+      },
+      "packages": [
+        805461,
+        1139973,
+        1139975,
+        1211317
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Monster Hunter Wilds",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 805461,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Monster Hunter Wilds - 69,99€",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 6999
+            },
+            {
+              "packageid": 1139973,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Monster Hunter Wilds Deluxe Edition - 89,99€",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 8999
+            },
+            {
+              "packageid": 1139975,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Monster Hunter Wilds Premium Deluxe Edition - 109,99€",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 10999
+            },
+            {
+              "packageid": 1211317,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Monster Hunter Wilds Cosmetic DLC Pass - 49,99€",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 4999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 61,
+          "description": "HDR available"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_31b5597fecf2d9a2904bc9bbf8011aacb18143db.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_31b5597fecf2d9a2904bc9bbf8011aacb18143db.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_9245c1ede8c3fc2cd65e4890a74a01ef50b726da.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_9245c1ede8c3fc2cd65e4890a74a01ef50b726da.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c722e74607ffda9a1472093ccc934f1bdde10ab8.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c722e74607ffda9a1472093ccc934f1bdde10ab8.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_d439e321350c004c4d866c248019aefdc6a50600.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_d439e321350c004c4d866c248019aefdc6a50600.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_fa2361b39da8e8bde3cbc282879de97f2f3e57af.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_fa2361b39da8e8bde3cbc282879de97f2f3e57af.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c1dd8c8af4e0fd3bb233888b4155d94f7988debd.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c1dd8c8af4e0fd3bb233888b4155d94f7988debd.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c1c31d5252307bd9e331f21509c8fd8dc39c2d61.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_c1c31d5252307bd9e331f21509c8fd8dc39c2d61.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_5b3101fafdfb638384a5cc0024a9801fe6af06b6.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_5b3101fafdfb638384a5cc0024a9801fe6af06b6.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_e78e739e1cd881de7a7c4cbec0b3ada2df155678.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_e78e739e1cd881de7a7c4cbec0b3ada2df155678.1920x1080.jpg?t=1747271831"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_d17898c5f18d4e081fe185d28fd0eb8155fbf529.600x338.jpg?t=1747271831",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/ss_d17898c5f18d4e081fe185d28fd0eb8155fbf529.1920x1080.jpg?t=1747271831"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257118567,
+          "name": "14_MHWilds_TU1_Multi_DE_1080p",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257118567/d9f67f524a5de835fc81740acae8e4178c4dc8d9/movie_600x337.jpg?t=1742961783",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257118567/movie480_vp9.webm?t=1742961783",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257118567/movie_max_vp9.webm?t=1742961783"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257118567/movie480.mp4?t=1742961783",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257118567/movie_max.mp4?t=1742961783"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257108911,
+          "name": "14_MHWilds_StoryPV_Multi_DE_1080p",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257108911/b6cc301baf2b1a852fb956fb6ac547046e48b0ce/movie_600x337.jpg?t=1740977463",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257108911/movie480_vp9.webm?t=1740977463",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257108911/movie_max_vp9.webm?t=1740977463"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257108911/movie480.mp4?t=1740977463",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257108911/movie_max.mp4?t=1740977463"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257097906,
+          "name": "14_MHWilds_PV7_Multi_DE_1080p",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257097906/14271d82fae23158bde2f51f4af8216d6046ed3a/movie_600x337.jpg?t=1739425856",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257097906/movie480_vp9.webm?t=1739425856",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257097906/movie_max_vp9.webm?t=1739425856"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257097906/movie480.mp4?t=1739425856",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257097906/movie_max.mp4?t=1739425856"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257094898,
+          "name": "14_MHWilds_PV6_Multi_DE_1080p",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257094898/9b5f62e4a58338d475f11a7d95921f0c8f09e5e7/movie_600x337.jpg?t=1739425899",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257094898/movie480_vp9.webm?t=1739425899",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257094898/movie_max_vp9.webm?t=1739425899"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257094898/movie480.mp4?t=1739425899",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257094898/movie_max.mp4?t=1739425899"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257068949,
+          "name": "14_MHWilds_PV5_Multi_DE_1080p",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257068949/587ceff321831e80b8a2cdace618249c1f6ac209/movie_600x337.jpg?t=1730266587",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257068949/movie480_vp9.webm?t=1730266587",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257068949/movie_max_vp9.webm?t=1730266587"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257068949/movie480.mp4?t=1730266587",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257068949/movie_max.mp4?t=1730266587"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257069247,
+          "name": "14_MHWilds_PV4_Multi_GE_1080p_0926",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069247/aba4ff6100abadd9343ce4bbf03ddee17b652faf/movie_600x337.jpg?t=1730266659",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257069247/movie480_vp9.webm?t=1730266659",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257069247/movie_max_vp9.webm?t=1730266659"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257069247/movie480.mp4?t=1730266659",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257069247/movie_max.mp4?t=1730266659"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257069229,
+          "name": "14_MHWilds_PV3_Multi_DE_1080p",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257069229/ad718a00c58fef2be8371dfd0891afa20729bba3/movie_600x337.jpg?t=1730266731",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257069229/movie480_vp9.webm?t=1730266731",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257069229/movie_max_vp9.webm?t=1730266731"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257069229/movie480.mp4?t=1730266731",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257069229/movie_max.mp4?t=1730266731"
+          },
+          "highlight": true
+        },
+        {
+          "id": 257027137,
+          "name": "13_MHWilds_PV1_Multi_DE_1080P",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257027137/movie.293x165.jpg?t=1717123985",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257027137/movie480_vp9.webm?t=1717123985",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257027137/movie_max_vp9.webm?t=1717123985"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/257027137/movie480.mp4?t=1717123985",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/257027137/movie_max.mp4?t=1717123985"
+          },
+          "highlight": true
+        },
+        {
+          "id": 256988647,
+          "name": "13_MHWilds_AnnouncePV_Multi_GE_1080P",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256988647/movie.293x165.jpg?t=1702947675",
+          "webm": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/256988647/movie480_vp9.webm?t=1702947675",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/256988647/movie_max_vp9.webm?t=1702947675"
+          },
+          "mp4": {
+            "480": "http://video.akamai.steamstatic.com/store_trailers/256988647/movie480.mp4?t=1702947675",
+            "max": "http://video.akamai.steamstatic.com/store_trailers/256988647/movie_max.mp4?t=1702947675"
+          },
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 131108
+      },
+      "achievements": {
+        "total": 50,
+        "highlighted": [
+          {
+            "name": "Eastward Wings",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/57afb97b918edcbbc6827d844e5da32c6c94b95b.jpg"
+          },
+          {
+            "name": "Windward Lands",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/1143bb0eff64a59f597611251a8466a9973c1ff3.jpg"
+          },
+          {
+            "name": "Shadow in the Downpour",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/5f4fd625717abc79cbb4c4881a73aa7ae2242575.jpg"
+          },
+          {
+            "name": "Guardians of the Forge",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/d89dc1a4cfc30c3cdc1f948859e6110cb197f716.jpg"
+          },
+          {
+            "name": "Bringer of Harmony",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/434c1f03130cd56e4180d3e8bd488dac12f8d6ac.jpg"
+          },
+          {
+            "name": "New Ecosystems",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/c6313a9e6881d9f445655d960e7c8c049d5fbe66.jpg"
+          },
+          {
+            "name": "A Bitter Environment",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/36464277f3954348a99d166c3df5b2cb1e5678ca.jpg"
+          },
+          {
+            "name": "Beyond the Black Wings",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/e8b7b10ba56a9463ec659c7f1f980f3613662962.jpg"
+          },
+          {
+            "name": "One Corner of the World",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/4a43b779d1953fd87e920d44a497d97fbbfc2572.jpg"
+          },
+          {
+            "name": "A True Hunter Is Never Satisfied",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2246340/ee560f5141c63b678c2a817e950bc9d453228d90.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "27 Feb, 2025"
+      },
+      "support_info": {
+        "url": "http://www.capcom.co.jp/support/contact/",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2246340?t=1747271831",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/page_bg_raw.jpg?t=1747271831",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "t",
+          "descriptors": "Violence\r\nBlood\r\nCrude Humor",
+          "interactive_elements": "Users Interact\r\nIn-Game Purchases"
+        },
+        "pegi": {
+          "rating": "16",
+          "descriptors": "Violence\r\nIn-Game Purchase"
+        },
+        "usk": {
+          "rating": "12",
+          "rating_id": "56202/24",
+          "descriptors": "Fantasy-Gewalt\r\nChats\r\nIn-Game-Käufe"
+        },
+        "oflc": {
+          "rating": "m",
+          "descriptors": "Fantasy themes and violence\r\nOnline interactivity and chat\r\nIn-game purchases"
+        },
+        "cero": {
+          "rating": "c",
+          "descriptors": "暴力\r\nセクシャル"
+        },
+        "kgrb": {
+          "rating": "15",
+          "descriptors": "Violence"
+        },
+        "fpb": {
+          "rating": "16",
+          "descriptors": "D, V, PPS, CI"
+        },
+        "csrr": {
+          "rating": "C15",
+          "descriptors": "暴力"
+        },
+        "crl": {
+          "rating": "16"
+        },
+        "dejus": {
+          "rating": "12",
+          "descriptors": "Violência\r\nLinguagem imprópria\r\nCompras online\r\nInteração de Usuários"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}
