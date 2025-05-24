@@ -1,6 +1,5 @@
 # Streamlit Secrets
 .streamlit/secrets.toml
 
-# SQLite binary
-data/
-
+data/*
+!data/steam_games.db
