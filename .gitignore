@@ -3,3 +3,6 @@
 
 data/*
 !data/steam_games.db
+
+fonts/*
+!fonts/ipaexg.ttf
