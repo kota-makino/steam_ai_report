@@ -5,9 +5,9 @@ import seaborn as sns
 import sqlite3
 from io import BytesIO
 from fpdf import FPDF
-import tempfile
-import os
 import google.generativeai as genai
+import matplotlib.font_manager as fm
+
 
 # Geminiの初期化
 genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
@@ -26,8 +26,11 @@ FOCUS_OPTIONS = [
     "プラットフォーム"
 ]
 
-plt.rcParams['font.family'] = 'Meiryo'  # ← ここで日本語フォントを指定
-plt.rcParams['axes.unicode_minus'] = False  # ← マイナス符号の文字化け対策
+# フォントの設定
+plt.rcParams['font.family'] = 'Meiryo'  
+plt.rcParams['axes.unicode_minus'] = False  
+fm.fontManager.addfont("fonts/ipaexg.ttf")
+plt.rcParams["font.family"] = "IPAexGothic"
 
 
 @st.cache_data
