@@ -1,31 +1,17 @@
 # app.py（本体）
 import streamlit as st
 from modules.data_loader import load_data, filter_data, prepare_ai_input
-from modules.graph import draw_graph
+from modules.graph import set_fonts,draw_graph
 from modules.gemini import create_prompt, generate_summary
 from modules.pdf import create_pdf
-from matplotlib import pyplot as plt, font_manager as fm
+from config.settings import COUNTRIES, FOCUS_OPTIONS
+from fonts import set_fonts
 
 # UI設定
 def main():
     st.title("🎮 Steamデータ分析AIレポート - Gemini対応")
 
-    COUNTRIES = ["jp", "us", "kr", "de"]
-    FOCUS_OPTIONS = [
-        "価格",
-        "レビュー数",
-        "リリース年",
-        "無料かどうか",
-        "年齢制限",
-        "開発会社",
-        "プラットフォーム"
-    ]
-
-    # フォントの設定
-    plt.rcParams['font.family'] = 'Meiryo'  
-    plt.rcParams['axes.unicode_minus'] = False  
-    fm.fontManager.addfont("fonts/ipaexg.ttf")
-    plt.rcParams["font.family"] = "IPAexGothic"
+    set_fonts()
 
     with st.sidebar:
             countries = st.multiselect("対象国を選択", options=COUNTRIES, default=["jp"])

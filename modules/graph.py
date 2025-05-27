@@ -1,6 +1,13 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-import streamlit as st
+from matplotlib import pyplot as plt, font_manager as fm
+
+ # フォントの設定
+def set_fonts():
+    plt.rcParams['font.family'] = 'Meiryo'  
+    plt.rcParams['axes.unicode_minus'] = False  
+    fm.fontManager.addfont("fonts/ipaexg.ttf")
+    plt.rcParams["font.family"] = "IPAexGothic"
 
 
 def draw_graph(df, focus):

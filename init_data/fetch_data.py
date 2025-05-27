@@ -4,6 +4,7 @@ import os
 import json
 from datetime import datetime, timedelta
 import pandas as pd
+from config.settings import COUNTRIES
 
 # 人気AppIDリストをCSVから読み込み（カラム: appid, name）
 def load_popular_appids(csv_path="data/popular_appids.csv", limit=500):
@@ -44,7 +45,7 @@ def is_recently_updated(appid, country_code, folder="data/raw_games_base"):
 if __name__ == "__main__":
     apps = load_popular_appids("data/popular_appids.csv")
 
-    country_codes = ["jp", "us", "kr", "de"]
+    country_codes = COUNTRIES
 
     recomend_count = 1
 
