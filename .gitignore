@@ -6,3 +6,9 @@ data/*
 
 fonts/*
 !fonts/ipaexg.ttf
+
+__pycache__/
+*.py[cod]
+
+*.pkl
+.matplotlib/

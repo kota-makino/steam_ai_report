@@ -28,5 +28,4 @@ def draw_graph(df, focus):
         sns.barplot(data=df, y="プラットフォーム", x="ゲーム数", ax=ax)
         ax.set_title(f"プラットフォームの対応状況（{len(df)}件）")
 
-    st.pyplot(fig)
     return fig
