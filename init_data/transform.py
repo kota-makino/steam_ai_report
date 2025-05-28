@@ -2,15 +2,21 @@ import os
 import json
 import pandas as pd
 import sqlite3
+from config.settings import EXCHANGE_RATES
+
+
 
 # 必要な情報だけ抽出する関数
 def extract_info(appid, data, country_code):
     try:
         app_data = data[str(appid)]['data']
+        price = app_data.get('price_overview', {}).get('final', 0) / 100
+        
         return {
             'appid': appid,
             'name': app_data.get('name'),
-            'price': app_data.get('price_overview', {}).get('final', 0) / 100,
+            'price': price,
+            'price_jpy': convert_to_jpy(price,country_code),
             'genres': ', '.join([g['description'] for g in app_data.get('genres', [])]),
             'release_date': app_data.get('release_date', {}).get('date'),
             'recommendations': app_data.get('recommendations', {}).get('total', 0),
@@ -23,6 +29,12 @@ def extract_info(appid, data, country_code):
         }
     except:
         return None
+    
+#日本円を計算する関数
+def convert_to_jpy(price, country_code):
+    rate = EXCHANGE_RATES.get(country_code, 1.0)
+    return round(price * rate)
+
 
 # JSONファイルから整形してSQLiteに保存
 # ファイル名が appid_国コード.json の形式である前提

@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 import streamlit as st
 
-@st.cache_data
+@st.cache_data(ttl=0)
 def load_data():
     conn = sqlite3.connect("data/steam_games.db")
     df = pd.read_sql_query("SELECT * FROM games", conn)
@@ -31,7 +31,7 @@ def prepare_ai_input(df, focus):
     elif focus == "開発会社":
         return df["developers"].value_counts().head(20).reset_index().rename(columns={"index": "開発会社", "developers": "ゲーム数"})
     elif focus == "価格":
-        return df.sort_values("price").head(50)
+        return df
     elif focus == "レビュー数":
         return df.sort_values("recommendations", ascending=False).head(50)
     elif focus == "リリース年":
