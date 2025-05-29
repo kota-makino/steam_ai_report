@@ -1,7 +1,7 @@
 
 
 import matplotlib.pyplot as plt
-from matplotlib import pyplot as plt, font_manager as fm
+from matplotlib import pyplot as plt
 import pandas as pd
 
 def plot_price_pie(df):
@@ -17,19 +17,6 @@ def plot_price_pie(df):
         #print(f"価格データの統計: {df['price_jpy'].describe()}")
     
     try:
-        # price_jpy列が存在しない場合の対処
-        if 'price_jpy' not in df.columns:
-            # 代替として price 列を使用するか、エラーメッセージを表示
-            if 'price' in df.columns:
-                df['price_jpy'] = df['price']  # 一時的にコピー
-            else:
-                axes[0].text(0.5, 0.5, "価格データが見つかりません", 
-                           ha='center', va='center', transform=axes[0].transAxes)
-                axes[1].text(0.5, 0.5, "価格データが見つかりません", 
-                           ha='center', va='center', transform=axes[1].transAxes)
-                axes[0].set_title("価格データなし")
-                axes[1].set_title("価格データなし")
-                return fig
         
         # 全体の無料・有料構成
         free_count = (df["price_jpy"] == 0).sum()
@@ -46,7 +33,7 @@ def plot_price_pie(df):
         else:
             # 左側の円グラフ: 無料 vs 有料
             if free_count > 0 and paid_count > 0:
-                wedges, texts, autotexts = axes[0].pie(
+                axes[0].pie(
                     [free_count, paid_count], 
                     labels=["無料", "有料"], 
                     autopct='%1.1f%%', 
@@ -54,7 +41,7 @@ def plot_price_pie(df):
                     colors=['lightblue', 'lightcoral']
                 )
             elif free_count > 0:
-                wedges, texts, autotexts = axes[0].pie(
+                axes[0].pie(
                     [free_count], 
                     labels=["無料"], 
                     autopct='%1.1f%%', 
@@ -62,7 +49,7 @@ def plot_price_pie(df):
                     colors=['lightblue']
                 )
             else:
-                wedges, texts, autotexts = axes[0].pie(
+                axes[0].pie(
                     [paid_count], 
                     labels=["有料"], 
                     autopct='%1.1f%%', 
@@ -91,7 +78,7 @@ def plot_price_pie(df):
                 
                 if len(price_counts) > 0:
                     colors = ['gold', 'lightgreen', 'salmon', 'skyblue', 'plum', 'orange']
-                    wedges, texts, autotexts = axes[1].pie(
+                    axes[1].pie(
                         price_counts.values, 
                         labels=price_counts.index, 
                         autopct='%1.1f%%', 
