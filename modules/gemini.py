@@ -7,7 +7,7 @@ genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 
-def create_prompt(df, countries, focus, custom_query, markdown=False):
+def create_prompt(df, countries, focus, custom_query):
     country_names = ", ".join(countries)
     
     base_text = f"""
@@ -21,11 +21,11 @@ def create_prompt(df, countries, focus, custom_query, markdown=False):
 - 興味深いパターンや異常値
 - 他国との比較や仮説（可能なら）
 
+
 {custom_query or "気づいたことを自由に述べてください。"}
 """
 
-    if markdown:
-        base_text += "\n\n出力はMarkdown形式でお願いします（見出し、箇条書きなども含めて）。"
+
 
     return base_text
 

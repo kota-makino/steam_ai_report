@@ -3,7 +3,7 @@ import streamlit as st
 from modules.data_loader import load_data, filter_data, prepare_ai_input
 from modules.graph import set_fonts,draw_graph
 from modules.gemini import create_prompt, generate_summary
-from modules.pdf import create_pdf
+from modules.pdf import create_advanced_pdf
 from config.settings import COUNTRIES, FOCUS_OPTIONS
 
 
@@ -41,7 +41,7 @@ def main():
                 fig = draw_graph(df_subset, focus)
                 
                 # プロンプト作成とAI分析
-                prompt = create_prompt(df_subset, countries, focus, user_query, markdown=True)
+                prompt = create_prompt(df_subset, countries, focus, user_query)
                 report_text = generate_summary(prompt)
                 
                 # セッション状態に保存
@@ -64,10 +64,9 @@ def main():
         
         # PDF作成時もグラフを含める
         if st.session_state.fig is not None:
-            pdf_file = create_pdf(
+            pdf_file = create_advanced_pdf(
                 st.session_state.report_text,
-                st.session_state.fig,
-                markdown=True
+                st.session_state.fig
             )
             st.download_button("📄 PDFレポートをダウンロード", pdf_file, 
                             file_name="steam_ai_report.pdf", mime="application/pdf")

@@ -96,6 +96,7 @@ def plot_price_pie(df):
                         labels=price_counts.index, 
                         autopct='%1.1f%%', 
                         startangle=90,
+                        counterclock=False, 
                         colors=colors[:len(price_counts)]
                     )
                     axes[1].set_title(f"有料ゲーム：価格帯分布 (総数: {len(paid_df)})")

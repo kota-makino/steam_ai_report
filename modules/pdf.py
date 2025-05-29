@@ -4,61 +4,144 @@ import tempfile
 import os
 import re
 
-def create_pdf(report_text, fig, title="Steamゲームデータ分析レポート", markdown=False):
-    # 一時画像保存
+def _render_markdown_text(pdf, text):
+    """Markdownテキストをきれいにレンダリング"""
+    lines = text.splitlines()
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            pdf.ln(2)
+            continue
+            
+        # 見出し1
+        if line.startswith("# "):
+            pdf.set_font("IPAexG", "B", size=16)
+            pdf.set_text_color(0, 100, 150)
+            pdf.set_x(15)
+            pdf.multi_cell(0, 8, line[2:].strip(), align='L')
+            pdf.set_text_color(0, 0, 0)
+            pdf.set_font("IPAexG", size=12)
+            pdf.ln(3)
+            
+        # 見出し2
+        elif line.startswith("## "):
+            pdf.set_font("IPAexG", "B", size=14)
+            pdf.set_text_color(50, 50, 100)
+            pdf.set_x(15)
+            pdf.multi_cell(0, 7, line[3:].strip(), align='L')
+            pdf.set_text_color(0, 0, 0)
+            pdf.set_font("IPAexG", size=12)
+            pdf.ln(2)
+            
+        # 見出し3
+        elif line.startswith("### "):
+            pdf.set_font("IPAexG", "B", size=12)
+            pdf.set_text_color(80, 80, 80)
+            pdf.set_x(15)
+            pdf.multi_cell(0, 7, line[4:].strip(), align='L')
+            pdf.set_text_color(0, 0, 0)
+            pdf.set_font("IPAexG", size=12)
+            pdf.ln(2)
+            
+        # リスト項目
+        elif line.startswith("* ") or line.startswith("- "):
+            pdf.set_font("IPAexG", size=11) 
+            pdf.cell(6, 7, "•", ln=False)
+            current_x = pdf.get_x()
+            pdf.set_x(current_x)
+  
+            formatted_line = _format_paragraph(line[2:].strip())
+            pdf.multi_cell(0, 7, formatted_line, align='L')
+            pdf.ln(1)
+            
+        # 番号付きリスト
+        elif re.match(r"^\d+\. ", line):
+            pdf.set_font("IPAexG", size=11) 
+            match = re.match(r"^(\d+)\. (.+)", line)
+            if match:
+                num, content = match.groups()
+                pdf.cell(10, 7, f"{num}.", ln=False)
+                current_x = pdf.get_x()
+                pdf.set_x(current_x)
+                
+
+                formatted_content = _format_paragraph(content)
+                pdf.multi_cell(0, 7, formatted_content, align='L')
+                pdf.ln(1)
+                
+        # 通常のテキスト
+        else:
+            pdf.set_font("IPAexG", size=11)
+
+            formatted_line = _format_paragraph(line)
+            pdf.multi_cell(0, 7, formatted_line, align='L')
+            pdf.ln(2)
+
+
+def _format_paragraph(text):
+    """段落テキストの整形"""
+    # 連続する空白を削除
+    text = re.sub(r'\s+', ' ', text)
+    
+    # 句読点の後で改行の可能性を高める
+    text = re.sub(r'([。！？])\s*', r'\1 ', text)
+    text = re.sub(r'([、])\s*', r'\1', text)
+    
+    # 例示部分の整形
+    text = re.sub(r'例：', '\n　例：', text)
+    
+    return text.strip()
+
+
+# より高度なレポート生成関数
+def create_advanced_pdf(report_text, fig, title="Steamゲームデータ分析レポート"):
+    """より高度なPDFレポート生成"""
     with tempfile.NamedTemporaryFile(delete=False, suffix=".png") as tmp_img:
-        fig.savefig(tmp_img.name, format='png', bbox_inches='tight')
+        fig.savefig(tmp_img.name, format='png', bbox_inches='tight', dpi=300, 
+                   facecolor='white', edgecolor='none')
         tmp_img_path = tmp_img.name
 
-    # PDF設定
     pdf = FPDF()
     pdf.add_page()
     pdf.add_font("IPAexG", "", "fonts/ipaexg.ttf", uni=True)
     pdf.add_font("IPAexG", "B", "fonts/ipaexg.ttf", uni=True)
-    pdf.set_font("IPAexG", size=12)
 
-    # タイトル
-    pdf.set_font("IPAexG", size=16)
+    # ヘッダー部分
+    pdf.set_fill_color(240, 248, 255)  # 薄い青
+    pdf.rect(10, 10, 190, 25, 'F')
+    pdf.set_font("IPAexG", "B", size=18)
+    pdf.set_text_color(0, 50, 100)
+    pdf.set_xy(15, 20)
     pdf.cell(0, 10, title, ln=True, align='C')
-    pdf.ln(5)
+    pdf.set_text_color(0, 0, 0)
+    pdf.ln(8)
 
-    # グラフ
+    # グラフセクション
+    pdf.set_font("IPAexG", "B", size=12)
+    pdf.set_text_color(0, 100, 150)
+    pdf.set_x(15)
+    pdf.cell(0, 6, "データ可視化", ln=True, align='L')
+    pdf.set_text_color(0, 0, 0)
+    pdf.ln(3)
     pdf.image(tmp_img_path, x=15, w=180)
     pdf.ln(10)
 
-    # レポート表示
-    pdf.set_font("IPAexG", size=11)
+    # レポートセクション
+    pdf.set_font("IPAexG", "B", size=12)
+    pdf.set_text_color(0, 100, 150)
+    pdf.set_x(15)
+    pdf.cell(0, 6, "分析結果", ln=True, align='L')
+    pdf.set_text_color(0, 0, 0)
+    pdf.ln(3)
+    
+    _render_markdown_text(pdf, report_text)
 
-    if markdown:
-        lines = report_text.splitlines()
-        for line in lines:
-            line = line.strip()
-            if not line:
-                pdf.ln(2)
-                continue
-            if line.startswith("# "):
-                pdf.set_font("IPAexG", "B", size=14)
-                pdf.multi_cell(0, 8, line[2:].strip())
-                pdf.set_font("IPAexG", size=11)
-                pdf.ln(2)
-            elif line.startswith("## "):
-                pdf.set_font("IPAexG", "B", size=12)
-                pdf.multi_cell(0, 8, line[3:].strip())
-                pdf.set_font("IPAexG", size=11)
-            elif line.startswith("- "):
-                pdf.multi_cell(0, 8, "・" + line[2:].strip())
-            elif re.match(r"\d+\. ", line):
-                pdf.multi_cell(0, 8, "・" + line.strip())
-            else:
-                pdf.multi_cell(0, 8, line)
-    else:
-        text = report_text.replace("\n", " ")
-        text = re.sub(r"\s{2,}", " ", text)
-        text = re.sub(r"([、。！？])", r"\1\n", text)
-        paragraphs = [p.strip() for p in text.strip().split("\n") if p.strip()]
-        for para in paragraphs:
-            pdf.multi_cell(0, 8, para)
-            pdf.ln(2)
+    # フッター
+    pdf.ln(5)
+    pdf.set_font("IPAexG", size=8)
+    pdf.set_text_color(128, 128, 128)
+    pdf.cell(0, 5, f"Generated by Steam Game Analysis Tool", ln=True, align='C')
 
     os.remove(tmp_img_path)
     pdf_buffer = pdf.output(dest='S').encode('latin1')
